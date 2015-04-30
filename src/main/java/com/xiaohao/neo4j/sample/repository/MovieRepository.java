@@ -7,8 +7,8 @@ import org.springframework.stereotype.Repository;
 /**
  * Created by Administrator on 15-4-28.
  */
-@Repository
 public interface MovieRepository extends GraphRepository<Movie> {
+
 
 
 
